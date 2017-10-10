@@ -1,0 +1,10 @@
+D:\SelfStudy\Asg1\Asg1\bin\Debug\Asg1.exe.config
+D:\SelfStudy\Asg1\Asg1\bin\Debug\Asg1.exe
+D:\SelfStudy\Asg1\Asg1\bin\Debug\Asg1.pdb
+D:\SelfStudy\Asg1\Asg1\obj\Debug\Asg1.csprojResolveAssemblyReference.cache
+D:\SelfStudy\Asg1\Asg1\obj\Debug\Asg1.Form1.resources
+D:\SelfStudy\Asg1\Asg1\obj\Debug\Asg1.Properties.Resources.resources
+D:\SelfStudy\Asg1\Asg1\obj\Debug\Asg1.Reminder.resources
+D:\SelfStudy\Asg1\Asg1\obj\Debug\Asg1.csproj.GenerateResource.Cache
+D:\SelfStudy\Asg1\Asg1\obj\Debug\Asg1.exe
+D:\SelfStudy\Asg1\Asg1\obj\Debug\Asg1.pdb
